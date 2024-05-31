@@ -1,0 +1,7 @@
+sklearn
+matplotlib
+scipy
+fire
+transformers
+datasets
+sentencepiece
