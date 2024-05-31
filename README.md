@@ -59,7 +59,7 @@ Please note that we only realized quantized parameters at full-preciison, custom
 
 See [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
 
-Most experiments in the paper on ZeroShot can be conducted on single NVIDIA A100-80G GPU, the model of 60B
+Most experiments in the paper on ZeroShot can be conducted on single NVIDIA A100 80G GPU, only models over 60B require two GPUs.
 
 ## Paper Results
 
